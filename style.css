@@ -183,7 +183,7 @@ a:hover
 
 .d-bloc .panel,.l-bloc
 {
-	color: rgba(0, 0, 0, .5);
+	color: rgba(0, 0, 0, 0.74);
 }
 
 .d-bloc .panel button:hover,.l-bloc button:hover
