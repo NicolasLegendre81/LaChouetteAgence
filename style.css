@@ -806,7 +806,8 @@ h4
 
 .tc-white
 {
-	color:  #1d1c1e;
+	color:  #f8f5f4;
+	filter: contrast(200%);
 }
 
 .btn-atomic-tangerine
